@@ -1,0 +1,15 @@
+.cover {
+    width: 192px;
+    height: 232px;
+}
+
+.cover__picture {
+    background: url(../image/covers/11.svg);
+    width: 192px;
+    height: 192px;
+    border-radius: 12px;
+}
+
+.cover__text {
+    margin-top: 8px;
+}
