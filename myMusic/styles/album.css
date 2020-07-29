@@ -1,0 +1,14 @@
+.album {
+    width: 192px;
+    height: 232px;
+}
+
+.cover__picture {
+    width: 192px;
+    height: 192px;
+    border-radius: 12px;
+}
+
+.album__info {
+    margin-top: 8px;
+}

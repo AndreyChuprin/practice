@@ -1,0 +1,35 @@
+.text {
+    font-family: PT Root UI;
+}
+
+.text--large {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    color: #3A3A3A;
+}
+
+.text--middle {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #3A3A3A;
+}
+
+.text--little {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.text--very_small {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: #3a3a3a;
+    opacity: 0.6;
+}
